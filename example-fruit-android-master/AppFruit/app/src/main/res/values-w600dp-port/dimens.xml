@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="activity_foods_margins">10dp</dimen>
+
+    <dimen name="item_food_width">190dp</dimen>
+    <dimen name="item_food_height">295dp</dimen>
+
+</resources>
